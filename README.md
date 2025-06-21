@@ -1,1 +1,2 @@
-# inside-plaid
+- https://drewdevault.com/2022/02/19/Plaid-is-an-evil-nightmare-product.html
+- https://news.ycombinator.com/item?id=11831935
